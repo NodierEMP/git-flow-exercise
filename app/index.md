@@ -8,12 +8,10 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) | 
 
-[Grilled Peach Salad](recipe/jan/grilled-peach-salad.md)
 [Quick Oatmeal Pancakes](recipe/feb/oatmeal-pancakes.md)
 
 ### [Eggs Benny](writer/eggs-benny.md) | 
 
-[Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
 [Asparagus with Cranberries and Pine Nuts](recipe/feb/asparagus-cranberries.md)
 
 ### [Madame Croque](writer/madame-croque.md) |
@@ -22,3 +20,17 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 [Roast Pork Sandwich](recipe/feb/roast-pork-sandwich.md)
 
 
+## Last Month's Favourites
+
+### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) |
+
+[Grilled Peach Salad](recipe/jan/grilled-peach-salad.md)
+
+### [Eggs Benny](writer/eggs-benny.md) |
+
+[Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
+
+### [Madame Croque](writer/madame-croque.md) |
+
+[Chocolate Soup](recipe/jan/chocolate-soup.md)
+>>>>>>> release-1.1
